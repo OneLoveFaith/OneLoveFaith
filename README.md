@@ -1,6 +1,6 @@
 <h3 align="center">just a student account for INAI</h3>
 
-- ⚡ Fun fact **I think I am not funny**
+- ⚡ Fun fact: **I think I am not funny**
 
 
 <p align="left">
