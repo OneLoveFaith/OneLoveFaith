@@ -9,7 +9,7 @@
 <div align="center">just a student account for inai</div>  
   
 
-- ⚡ Fun fact:  I am not funny  
+- I am not funny  
   
 
 <br/>  
