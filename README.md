@@ -6,7 +6,7 @@
 ### <div align="center">Vyache Though?</div>  
   
 
-<div align="center">just a student account for inai</div>  
+<div align="center">just a student account for inai & The University of Tokyo(TODAI🤍)</div>  
   
 
 - I am not funny  
