@@ -3,6 +3,7 @@
 </div>  
 
 # 💫 About Me:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D93A7C&width=435&lines=F*ck+you+%3A))](https://git.io/typing-svg)
 🔭 I’m currently working on not @dying@<br>🌱 I’m currently learning JavaDaddyScript<br>
 
 
