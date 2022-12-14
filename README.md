@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://ac-o.namu.la/1e/1e9d9b8c104cbf628ad571a9fe1f3732fe4e0179389d80f2d7364e9792a77aae.mp4.gif?type=orig" align="center" style="width: 100%" />
+<img src="https://jp.keepnaive233.network/Resources/gif1.gif" align="center" style="width: 100%" />
 </div>  
 
 # 💫 About Me:
