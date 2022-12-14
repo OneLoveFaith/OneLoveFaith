@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://jp.keepnaive233.network/Resources/gif10.gif](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F91328e59-f69b-43f7-874f-2ae9236b0540%2F85162550.gif?table=block&id=629ff8a9-e4a5-4b3c-8c2c-2ed4a738a73d&cache=v2)" align="center" style="width: 100%"/>
+  <img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F91328e59-f69b-43f7-874f-2ae9236b0540%2F85162550.gif?table=block&id=629ff8a9-e4a5-4b3c-8c2c-2ed4a738a73d&cache=v2" align="center" style="width: 100%"/>
 </div>
 
 # 💫 About Me:
