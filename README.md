@@ -1,6 +1,7 @@
 <div align="center">
 <img src="https://jp.keepnaive233.network/Resources/gif10.gif" align="center" style="width: 100%"/>
 </div>
+
 # 💫 About Me:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=D93A7C&width=435&lines=F*ck+you+%3A)" alt="Typing SVG" />
 </a>
