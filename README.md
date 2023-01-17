@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://twitter.com/i/status/1312588254512852992" align="center" style="width: 100%"/>
+  <img src="https://qph.cf2.quoracdn.net/main-qimg-0ac665e7554cc22894872acec7ea7371" align="center" style="width: 100%"/>
 </div>
 
 # 💫 About Me:
